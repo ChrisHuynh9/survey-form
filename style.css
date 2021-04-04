@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: azure;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: linear-gradient(to right,rgb(1, 1, 190), purple);
+}
+
+.container {
+  margin: auto;
+  display: block;
+}
+
+#survey-form {
+  background-repeat: no-repeat;
+  background-color: #1b1b32cc;
+}
